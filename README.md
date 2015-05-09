@@ -1,2 +1,4 @@
 # Word-Auto-Correction
-Auto correct a paragraph or an article to the paragraph you want
+Auto correct/modify any piece of text to the text you want
+
+Input the text and when it reaches EOF, it will output the text after correction
